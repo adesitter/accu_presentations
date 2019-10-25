@@ -25,3 +25,11 @@ Delivered to ACCU Oxford on 18 July 2017.
 ## Migrating a large codebase to C++11
 
 Delivered to ACCU Oxford on 29 June 2016.
+
+## Lessons Learned from Maintenance of Scientific File Formats
+
+Delivered to ACCU Oxford in June 2014
+
+## Not-a-Number in IEEE 754 Floating Point Arithmetic
+
+Delivered to ACCU Oxford on 29 February 2012
