@@ -24,15 +24,15 @@ Lightning talk delivered at [ACCU conference](https://github.com/ACCUConf/PDFs_2
 
 ## [Migrating a large codebase to C++14: further adventures](Migrating_large_cpp14-further-adventures.pdf)
 
-Delivered to ACCU Oxford on 18 July 2017.
+Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/238673396/) on 18 July 2017.
 
 ## [Migrating a large codebase to C++11](Migrating_large_cpp11.pdf)
 
-Delivered to ACCU Oxford on 29 June 2016.
+Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/229819340/) on 29 June 2016.
 
 ## [Lessons Learned from Maintenance of Scientific File Formats](Arnaud-FileFormat-201406.pdf)
 
-Delivered to ACCU Oxford in June 2014
+Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/180870752/) in June 2014
 
 ## [Not-a-Number in IEEE 754 Floating Point Arithmetic](Arnaud-NaN-ACCU-20120229)
 
