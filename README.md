@@ -12,15 +12,15 @@ Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/261636265/)
 
 ## [Compiler customer service](Compiler_Customer_Service_ACCU_2019.pdf)
 
-Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/) on 23 May 2019.
+Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/258815176/) on 23 May 2019.
 
 ## [Reducing memory allocations - The case of C++ associative containers](ReducingMemoryAllocations-allocators_ACCU_Oxford_2018.pdf)
 
-Delivered to ACCU Oxford on 7 June 2018.
+Delivered to [ACCU Oxford](https://www.meetup.com/ACCU-Oxford/events/248334247/) on 7 June 2018.
 
 ## [Reducing memory allocations](ReducingMemoryAllocations_ACCU2018.pdf)
 
-Lightning talk delivered at ACCU conference (Bristol) on 13 April 2018.
+Lightning talk delivered at [ACCU conference](https://github.com/ACCUConf/PDFs_2018/blob/master/Lightning_Talks_-_Friday.pdf) (Bristol) on 13 April 2018.
 
 ## [Migrating a large codebase to C++14: further adventures](Migrating_large_cpp14-further-adventures.pdf)
 
